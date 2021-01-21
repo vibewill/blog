@@ -13,7 +13,7 @@ taxonomies = [
 build_search_index = true
 
 [extra]
-zulma_themes = ["default", "darkly", "flatly", "pulse", "simplex", "lux", "slate", "solar", "superhero"]
+zulma_themes = ["solar"]
 
 zulma_menu = [
     {url = "$BASE_URL/categories", name = "Categorias"},

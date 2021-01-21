@@ -6,7 +6,7 @@ demo = "https://festive-morse-47d46c.netlify.com/"
 homepage = "https://github.com/Worble/Zulma"
 
 [extra]
-zulma_themes = ["default", "darkly", "flatly", "pulse", "simplex", "lux", "slate", "solar", "superhero"]
+zulma_themes = ["solar"]
 
 [author]
 name = "Worble"
