@@ -23,4 +23,4 @@ zulma_menu = [
 zulma_brand = {text = "Home"}
 zulma_title = "/mnt"
 zulma_theme = "solar"
-zulma_allow_theme_selection = true
+zulma_allow_theme_selection = false
