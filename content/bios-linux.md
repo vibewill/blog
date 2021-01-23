@@ -4,7 +4,7 @@ date = 2021-01-23
 
 [taxonomies]
 categories = ["linux"]
-tags = ["remover uma entrada de boot UEFI obsoleta"]
+tags = ["Remover uma entrada de boot UEFI obsoleta"]
 authors = ["Willian Ricardo"]
 +++
 
