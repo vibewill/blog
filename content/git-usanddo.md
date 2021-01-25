@@ -23,4 +23,4 @@ O git push é o comando em que você transfere commits a partir do seu repositó
 > git push origin master  
 
 Salva usuario e senha permanente:  
-> git config --global credential.helper cache
+> git config credential.helper store
