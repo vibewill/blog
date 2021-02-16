@@ -17,3 +17,9 @@ Bora instalar.
 > sudo pip3 install xcffib  
 > sudo pip3 install --no-cache-dir cairocffi  
 > sudo pip3 install qtile  
+
+As fonts.  
+> sudo apt install fonts-noto  
+> sudo apt install fonts-font-awesome  
+
+Obrigado  
